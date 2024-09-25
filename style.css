@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ffffff;
+    
+}
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px 60px;
+    background-color: #0548c5;
+    color: #ffffff;
+    justify-content: space-between;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tudo{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+header ul{
+    display: flex;
+    gap: 110px;
+}
+ul li{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: large;
+}
+a{
+    color: rgb(33, 23, 173);
+    text-decoration: none;
+    font-size: larger;
+    
+}
